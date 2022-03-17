@@ -1,4 +1,4 @@
-### Howdy, I am Fatih 👋  
+### Howdy, my name is Fatih 👋  
 - 🔭 I’m currently working on data structures
 - 🌱 I’m currently learning GO
 - 🤔 I’m looking for help with finding resources
