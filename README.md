@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with finding resources
 - 💬 Ask me about my goals
 - 📫 How to reach me: Twitter - [@faithandlogic0](https://twitter.com/faithandlogic0)
-- ⚡ Fun fact: I love art and design
+- ⚡ Fun fact: I love technology and design
 
 ==========================
 
