@@ -15,12 +15,12 @@
 ### Socials
 
 <p align="left">
-<a href="https://www.github.com/blurout" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/faithandlogic0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/faithandlogic0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/blurout"><img src="https://github-readme-stats.vercel.app/api?username=blurout&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="blurout's GitHub stats" /></a>
+<a href="http://www.github.com/faithandlogic0"><img src="https://github-readme-stats.vercel.app/api?username=faithandlogic0&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="faithandlogic0's GitHub stats" /></a>
 
-<a href="http://www.github.com/blurout"><img src="https://github-readme-streak-stats.herokuapp.com/?user=blurout&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/faithandlogic0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=faithandlogic0&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
