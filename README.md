@@ -1,6 +1,6 @@
 ### Howdy, my name is Fatih 👋  
-- 🔭 I’m currently working on data structures
-- 🌱 I’m currently learning GO
+- 🔭 I’m currently working on Full-Stack web development
+- 🌱 I’m currently learning HTML/CSS/JS
 - 🤔 I’m looking for help with finding resources
 - 💬 Ask me about my goals
 - 📫 How to reach me: Twitter - [@faithandlogic0](https://twitter.com/faithandlogic0)
