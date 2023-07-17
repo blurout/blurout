@@ -19,6 +19,3 @@
 <a href="https://www.twitter.com/faithandlogic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/faithandlogic"><img src="https://github-readme-streak-stats.herokuapp.com/?user=faithandlogic&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
