@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML/CSS/JS
 - 🤔 I’m looking for help with finding resources
 - 💬 Ask me about my goals
-- 📫 How to reach me: Twitter - [@faithandlogic0](https://twitter.com/faithandlogic0)
+- 📫 How to reach me: fatihswdev@gmail.com
 - ⚡ Fun fact: I love technology and design
 
 ==========================
