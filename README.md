@@ -1,7 +1,7 @@
 ### Howdy, my name is Fatih 👋  
 - 🔭 I’m currently working on Full-Stack web development
-- 🌱 I’m currently learning HTML/CSS/JS
-- 🤔 I’m looking for help with finding resources
+- 🌱 I’m always on learning path
+- 🤔 I’m looking for help with finding learning resources
 - 💬 Ask me about my goals
 - 📫 How to reach me: fatihswdev@gmail.com
 - ⚡ Fun fact: I love technology and design
